@@ -94,8 +94,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40">
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://www.apache.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache-CentOS" width="40" height="40">
