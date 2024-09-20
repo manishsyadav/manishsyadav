@@ -1,77 +1,134 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <style>
-      /* Dark Mode / Light Mode styles */
-      body {
-         color-scheme: light dark;
-         background-color: var(--background-color, #ffffff);
-         color: var(--text-color, #000000);
-         text-align: center;
-      }
-      @media (prefers-color-scheme: dark) {
-         body {
-            --background-color: #0d1117;
-            --text-color: #ffffff;
-         }
-      }
-   </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rohit Shukla Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1, h3 {
+      text-align: left;
+    }
+    table {
+      width: 100%;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px;
+    }
+    img {
+      vertical-align: middle;
+    }
+    a {
+      text-decoration: none;
+    }
+    .skills-table img {
+      margin-right: 10px;
+    }
+    .contact-table th {
+      text-align: left;
+      padding: 10px;
+    }
+  </style>
 </head>
 <body>
 
 <h1>
-   <a href="#">
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+I'm+Manish+Y!;Full+Stack+WordPress+Developer;6+Years+Experience!&color=%23F7DF1E&size=28">
-   </a>
+  <a href="https://info.rohitshukla.net">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Rohit+Shukla....;Nice+to+see+you!&color=%23000000&size=28" alt="Welcome Text">
+  </a>
 </h1>
 
-<h3>🚀 About Me</h3>
-<p>
-   I am a passionate Full Stack WordPress Developer with 6 years of experience in developing custom WordPress themes and plugins, creating dynamic web applications, and optimizing websites for performance and SEO.
-</p>
+<p><b>Stuff I'm really good at:</b> C language, Java, HTML, CSS, WordPress, Bootstrap, SQL, Pl/SQL, Oracle DB</p>
 
-<h3>🌐 Technologies I Use</h3>
-
-<table align="center" style="margin: 0 auto;">
+<table class="skills-table">
   <tr>
-    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a></td>
-    <td><a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50"/></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" width="50" height="50"/></a></td>
-    <td><a href="https://restfulapi.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/></a></td>
-    <td><a href="https://www.json.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" width="50" height="50"/></a></td>
-    <td><a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="50" height="50"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a></td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/java/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://wordpress.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.w3schools.com/sql/" target="_blank">
+        <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="SQL" width="40" height="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="_blank">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh_mh35oPtukNeOK87qLrdQ9XgMx3X3DElCDYFZ9VOJZp-92y3CsQfA3n92Ss8RCmOaGcCnz21yxyar3FkYMPsEvLEhQ8GIywqwThEiYWflk-Lk--EgSlPrDJ5JhN1SRITpXzvCHsSZetXz67Sx-u7fqY7QlYk30vZuc30GPdmHBYkBZv0gxMQnPzVC=s200" alt="Pl/SQL" width="50" height="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.oracle.com/in/index.html" target="_blank">
+        <img src="https://rohitshukla001.github.io/notes/Images/oracleDB_icon.svg" alt="Oracle DB" height="40">
+      </a>
+    </td>
   </tr>
 </table>
 
-<h3>🛠 What I'm Good At</h3>
-<ul style="list-style-position: inside;">
-   <li>Building custom WordPress themes and plugins</li>
-   <li>API integration and custom REST API development</li>
-   <li>Optimizing websites for performance and SEO</li>
-   <li>Deploying and managing websites on AWS & GCP</li>
-   <li>Working with web servers (NGINX, Apache-CentOS)</li>
-   <li>Front-end development with Bootstrap & jQuery</li>
-</ul>
+<h3>Where to find me?</h3>
 
-<h3>📫 How to Reach Me</h3>
-<p>
-   <a href="mailto:manishy57457@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30px"/></a>
-   <a href="https://www.linkedin.com/in/manishy57457/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30px"/></a>
-</p>
+<table class="contact-table">
+  <tr>
+    <th>
+      <a href="mailto:rohitshukla5911@gmail.com" target="_blank">
+        <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail">
+      </a>
+    </th>
+    <th>
+      <a href="https://www.linkedin.com/in/rohitshukla001" target="_blank">
+        <img height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+      </a>
+    </th>
+    <th>
+      <a href="https://stackoverflow.com/users/17337182/rohit-shukla" target="_blank">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
+      </a>
+    </th>
+    <th>
+      <a href="https://www.hackerrank.com/rohitshukla001" target="_blank">
+        <img alt="HackerRank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" alt="HackerRank">
+      </a>
+    </th>
+    <th>
+      <a href="https://auth.geeksforgeeks.org/user/rohitshukla001" target="_blank">
+        <img alt="GeeksForGeeks" width="170px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" alt="GeeksForGeeks">
+      </a>
+    </th>
+    <th>
+      <a href="https://leetcode.com/rohitshukla001/" target="_blank">
+        <img alt="LeetCode" width="170px" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="LeetCode">
+      </a>
+    </th>
+  </tr>
+</table>
 
-<h3>📊 GitHub Stats</h3>
-<p>
-   <img src="https://github-readme-stats.vercel.app/api?username=msubachch
+</body>
+</html>
