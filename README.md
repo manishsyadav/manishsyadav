@@ -3,40 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    h1, h3 {
-      text-align: left;
-    }
-    table {
-      width: 100%;
-    }
-    th, td {
-      text-align: left;
-      padding: 10px;
-    }
-    img {
-      vertical-align: middle;
-    }
-    a {
-      text-decoration: none;
-    }
-    .skills-table img {
-      margin-right: 10px;
-    }
-    .contact-table th {
-      text-align: left;
-      padding: 10px;
-    }
-  </style>
 </head>
 <body>
 
 <h1>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Manish+Yadav....;Welcome+to+my+Portfolio!&color=%23000000&size=28" alt="Welcome Text">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Manish+Yadav...." alt="Welcome Text">
   </a>
 </h1>
 
@@ -128,11 +100,6 @@
     <th>
       <a href="https://github.com/msubachchanyadav" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </th>
-    <th>
-      <a href="https://www.hackerrank.com/msubachchanyadav" target="_blank">
-        <img alt="Hacker Rank" width="170px" src="https://uemkcp.github.io/images/Hackerrank-Logo.svg" />
       </a>
     </th>
   </tr>
