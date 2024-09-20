@@ -12,7 +12,21 @@
   </a>
 </h1>
 
-<p><b>Skills I'm proficient in:</b> WordPress, PHP, MySQL, HTML5, CSS3, JavaScript, Angular, Golang, AWS, GCP, NGINX, Apache-CentOS, jQuery, Bootstrap</p>
+<h3 align="left">🚀 About Me</h3>
+<p align="left">
+   I’m a Full Stack WordPress Developer with over 6 years of experience in web development. My expertise includes building scalable WordPress sites with custom plugins, API integrations, and optimizing for SEO. I’m proficient in a wide range of technologies, from front-end (HTML5, CSS3, JavaScript) to back-end (PHP, MySQL) and cloud platforms like AWS and GCP.
+</p>
+
+<h3 align="left">🔧 What I'm good at:</h3>
+<ul>
+   <li>Developing custom WordPress themes and plugins</li>
+   <li>RESTful API integration for dynamic web applications</li>
+   <li>Optimizing websites for performance and SEO</li>
+   <li>Deploying websites on AWS and GCP infrastructure</li>
+   <li>Building fully responsive and mobile-friendly web designs</li>
+</ul>
+
+<p><b>Skills I'm proficient in:</b></p>
 
 <table class="skills-table">
   <tr>
