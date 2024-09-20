@@ -26,7 +26,7 @@
    <li>Building fully responsive and mobile-friendly web designs</li>
 </ul>
 
-<h3>Skills I'm proficient in:</h3>
+<h3>💻 Skills I'm proficient in:</h3>
 
 <table class="skills-table">
   <tr>
@@ -120,7 +120,7 @@
 </table>
 
 <h3 align="left">📈 GitHub Stats</h3>
-  <table class="contact-table">
+  <table class="contact-table" style="border:none;">
   <tr>
     <th>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=msubachchanyadav&show_icons=true&theme=radical" alt="GitHub stats" />
