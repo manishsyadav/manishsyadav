@@ -26,7 +26,7 @@
    <li>Building fully responsive and mobile-friendly web designs</li>
 </ul>
 
-<p><b>Skills I'm proficient in:</b></p>
+<h3>Skills I'm proficient in:</h3>
 
 <table class="skills-table">
   <tr>
@@ -98,7 +98,7 @@
   </tr>
 </table>
 
-<h3>Where to find me?</h3>
+<h3>📬 Where to find me?</h3>
 <table class="contact-table">
   <tr>
     <th>
@@ -118,6 +118,13 @@
     </th>
   </tr>
 </table>
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<p align="left">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=msubachchanyadav&show_icons=true&theme=radical" alt="GitHub stats" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msubachchanyadav&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 </body>
 </html>
