@@ -14,7 +14,9 @@
     }
     .skills-table {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap; /* Prevents wrapping to new rows */
+      overflow-x: auto; /* Enables horizontal scrolling if necessary */
+      margin: 10px 0;
     }
     .skills-table img {
       margin: 10px;
