@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manish Yadav Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -36,7 +35,7 @@
 <body>
 
 <h1>
-  <a href="https://portfolio.manishyadav.com">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Manish+Yadav....;Welcome+to+my+Portfolio!&color=%23000000&size=28" alt="Welcome Text">
   </a>
 </h1>
@@ -70,8 +69,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://www.php.net/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
