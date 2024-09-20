@@ -122,10 +122,10 @@
 <h3 align="left">📈 GitHub Stats</h3>
   <table class="contact-table" style="border:none;">
   <tr>
-    <th>
+    <th style="border:none;">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=msubachchanyadav&show_icons=true&theme=radical" alt="GitHub stats" />
     </th>
-    <th>
+    <th style="border:none;">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msubachchanyadav&theme=radical" alt="GitHub Streak Stats" />
     </th>
   </tr>
