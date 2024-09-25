@@ -123,10 +123,10 @@
   <table class="contact-table" style="border:none;">
   <tr>
     <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=msubachchanyadav&show_icons=true&theme=radical" alt="GitHub stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=manishsyadav&show_icons=true&theme=radical" alt="GitHub stats" />
     </th>
     <th>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msubachchanyadav&theme=radical" alt="GitHub Streak Stats" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsyadav&theme=radical" alt="GitHub Streak Stats" />
     </th>
   </tr>
 </table>
