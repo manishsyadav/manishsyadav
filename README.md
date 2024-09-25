@@ -112,7 +112,7 @@
       </a>
     </th>
     <th>
-      <a href="https://github.com/msubachchanyadav" target="_blank">
+      <a href="https://github.com/manishsyadav" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </th>
